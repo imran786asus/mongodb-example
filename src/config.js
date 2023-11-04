@@ -6,5 +6,5 @@ module.exports = {
   port: process.env.PORT,
   jwtPrivateKey: "niu32y489yhn)&(*%^fjhv",
   cryptoKey: "niu32y489yhn)&(*%^fjhv",
-  db: "mongodb://127.0.0.1:27017/mongoose",
+  db: "mongodb+srv://imran7860:pzyqPugDC0JK52hD@cluster0.0wjbodd.mongodb.net/mongoose",
 };
